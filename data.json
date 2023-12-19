@@ -1,0 +1,276 @@
+{
+  "Products":[
+    {
+        "id":"0",
+        "img":"https://thebravecoders-responsive-cosmetics-website-with-dg110g8i1.vercel.app/_next/image?url=%2Fproduct__1.jpg&w=1080&q=75",
+        "name":"Wild Silk Finish Lipstick",
+        "price":"41.0",
+        "category":["lipsticks"],
+        "sale":false
+    },
+    {
+        "id":"1",
+        "img":"https://thebravecoders-responsive-cosmetics-website-with-dg110g8i1.vercel.app/_next/image?url=%2Fproduct__2.jpg&w=1080&q=75" ,
+        "name":"Wild Silk Finish Lipstick",
+        "price":"41.0",
+        "category":["lipsticks"],
+        "sale":false
+    },
+    {
+        "id":"2",
+        "img":"https://thebravecoders-responsive-cosmetics-website-with-dg110g8i1.vercel.app/_next/image?url=%2Fproduct__3.jpg&w=1080&q=75" ,
+        "name":"Wild Silk Finish Lipstick",
+        "price":"41.0",
+        "category":["lipsticks"],
+        "sale":false
+    },
+    {
+        "id":"3",
+        "img":"https://thebravecoders-responsive-cosmetics-website-with-dg110g8i1.vercel.app/_next/image?url=%2Fproduct__4.jpg&w=1080&q=75" ,
+        "name":"Wild Silk Finish Lipstick",
+        "price":"41.0",
+        "category":["lipsticks","makeup"],
+       " sale":true
+    },
+    {
+        "id":"4",
+        "img":"https://thebravecoders-responsive-cosmetics-website-with-dg110g8i1.vercel.app/_next/image?url=%2Fproduct__5.jpg&w=1080&q=75",
+        "name":"Goat Milk Lotion For Body",
+        "price":"16.0",
+        "category":["skin care"],
+        "sale":false
+    },
+    {
+        "id":"5",
+        "img":"https://thebravecoders-responsive-cosmetics-website-with-dg110g8i1.vercel.app/_next/image?url=%2Fproduct__6.jpg&w=1080&q=75",
+        "name":"Lead Gel Nail Polish",
+        "price":"18.0",
+        "category":["nail & wax"],
+        "sale":false
+    },
+    {
+        "id":"6",
+        "img":"https://thebravecoders-responsive-cosmetics-website-with-dg110g8i1.vercel.app/_next/image?url=%2Fproduct__7.jpg&w=1080&q=75",
+        "name":"Lead Gel Nail Polish",
+        "price":"18.0",
+        "category":["nail & wax"],
+       " sale":true
+    },
+    {
+        "id":"7",
+        "img":"https://thebravecoders-responsive-cosmetics-website-with-dg110g8i1.vercel.app/_next/image?url=%2Fproduct__8.jpg&w=1080&q=75",
+        "name":"Lead Gel Nail Polish",
+        "price":"18.0",
+        "category":["nail & wax"],
+        "sale":false
+    },
+    {
+        "id":"8",
+        "img":"https://thebravecoders-responsive-cosmetics-website-with-dg110g8i1.vercel.app/_next/image?url=%2Fproduct__9.jpg&w=1080&q=75",
+        "name":"Lead Gel Nail Polish",
+        "price":"18.0",
+        "category":["nail & wax"],
+        "sale":false
+    },
+    {
+        "id":"9",
+        "img":"https://thebravecoders-responsive-cosmetics-website-with-dg110g8i1.vercel.app/_next/image?url=%2Fproduct__11.jpg&w=1080&q=75",
+        "name":"Washable Bold Eye Mascara",
+        "price":55.0,
+        "category":["makeup"],
+       " sale":true
+    },
+    {
+        "id":10,
+        "img":"https://thebravecoders-responsive-cosmetics-website-with-dg110g8i1.vercel.app/_next/image?url=%2Fproduct__12.jpg&w=1080&q=75",
+        "name":"Washable Bold Eye Mascara",
+        "price":"55.0",
+        "category":["makeup"],
+        "sale":false
+    },
+    {
+        "id":11,
+        "img":"https://thebravecoders-responsive-cosmetics-website-with-dg110g8i1.vercel.app/_next/image?url=%2Fproduct__13.jpg&w=1080&q=75",
+        "name":"Cleanser with Salicylic Acid",
+        "price":"16.0",
+        "category":["skin care"],
+        "sale":false
+    },
+    {
+        "id":12,
+        "img":"https://thebravecoders-responsive-cosmetics-website-with-dg110g8i1.vercel.app/_next/image?url=%2Fproduct__15.jpg&w=1080&q=75",
+        "name":"Xtreme wear Nail Polish",
+        "price":"55.0",
+        "category":["makeup","nail & wax"],
+        "sale":false
+    },
+    {
+        "id":13,
+        "img":"https://thebravecoders-responsive-cosmetics-website-with-dg110g8i1.vercel.app/_next/image?url=%2Fproduct__14.jpg&w=1080&q=75",
+        "name":"Xtreme wear Nail Polish",
+        "price":"55.0",
+        "category":["makeup","nail & wax"],
+        "sale":false
+    },
+    {
+        "id":14,
+        "img":"https://thebravecoders-responsive-cosmetics-website-with-dg110g8i1.vercel.app/_next/image?url=%2Fproduct__17.jpg&w=1080&q=75",
+        "name":"Xtreme wear Nail Polish",
+        "price":"55.0",
+        "category":["makeup","nail & wax"],
+        "sale":false
+    },
+    {
+        "id":15,
+        "img":"https://thebravecoders-responsive-cosmetics-website-with-dg110g8i1.vercel.app/_next/image?url=%2Fproduct__16.jpg&w=1080&q=75",
+        "name":"Xtreme wear Nail Polish",
+        "price":55.0,
+        "category":["makeup","nail & wax"],
+       " sale":true
+    },
+    {
+        "id":16,
+        "img":"https://thebravecoders-responsive-cosmetics-website-with-dg110g8i1.vercel.app/_next/image?url=%2Fproduct__20.jpg&w=1080&q=75",
+        "name":"Glam Liquid Eyeshadow",
+        "price":"16.0",
+        "category":["makeup"],
+        "sale":false
+    },
+    {
+        "id":17,
+        "img":"https://thebravecoders-responsive-cosmetics-website-with-dg110g8i1.vercel.app/_next/image?url=%2Fproduct__18.jpg&w=1080&q=75",
+        "name":"Glam Liquid Eyeshadow",
+        "price":16.0,
+        "category":["makeup"],
+       " sale":true
+    },
+     {
+        "id":18,
+        "img":"https://thebravecoders-responsive-cosmetics-website-with-dg110g8i1.vercel.app/_next/image?url=%2Fproduct__19.jpg&w=1080&q=75",
+        "name":"Glam Liquid Eyeshadow",
+        "price":"16.0",
+        "category":["makeup"],
+        "sale":false
+    },
+    {
+        "id":19,
+        "img":"https://thebravecoders-responsive-cosmetics-website-with-dg110g8i1.vercel.app/_next/image?url=%2Fproduct__21.jpg&w=1080&q=75",
+        "name":"Glam Liquid Eyeshadow",
+        "price":"16.0",
+        "category":["makeup"],
+        "sale":false
+    },
+    {
+        "id":20,
+        "img":"https://thebravecoders-responsive-cosmetics-website-with-dg110g8i1.vercel.app/_next/image?url=%2Fproduct__22.jpg&w=1080&q=75",
+        "name":"NYX Matte Lipstick",
+        "price":"25.0",
+        "category":["lipsticks"],
+        "sale":false
+    },
+    {
+        "id":21,
+        "img":"https://thebravecoders-responsive-cosmetics-website-with-dg110g8i1.vercel.app/_next/image?url=%2Fproduct__23.jpg&w=1080&q=75",
+        "name":"Baby Oil",
+        "price":"20.0",
+        "category":["skin care"],
+        "sale":false
+    },
+    {
+        "id":22,
+        "img":"https://thebravecoders-responsive-cosmetics-website-with-dg110g8i1.vercel.app/_next/image?url=%2Fproduct__24.jpg&w=1080&q=75",
+        "name":"Hansen Vitamin C Cleanser",
+        "price":"15.0",
+        "category":["skin care"],
+        "sale":false
+    },
+    {
+        "id":23,
+        "img":"https://thebravecoders-responsive-cosmetics-website-with-dg110g8i1.vercel.app/_next/image?url=%2Fproduct__25.jpg&w=1080&q=75",
+        "name":"Arabica Coffee Scrub Skin",
+        "price":"18.0",
+        "category":["skin care"],
+        "sale":true
+    },
+    {
+        "id":24,
+        "img":"https://thebravecoders-responsive-cosmetics-website-with-dg110g8i1.vercel.app/_next/image?url=%2Fproduct__26.jpg&w=1080&q=75",
+        "name":"Rose Massge Oil",
+        "price":"25.0",
+        "category":["skin care"],
+        "sale":false
+    },
+    {
+        "id":25,
+        "img":"https://thebravecoders-responsive-cosmetics-website-with-dg110g8i1.vercel.app/_next/image?url=%2Fproduct__27.jpg&w=1080&q=75",
+        "name":"Secret Tease Candy Noir",
+        "price":"12.0",
+        "category":["makeup"],
+        "sale":false
+    },
+    {
+        "id":26,
+        "img":"https://thebravecoders-responsive-cosmetics-website-with-dg110g8i1.vercel.app/_next/image?url=%2Fproduct__28.jpg&w=1080&q=75",
+        "name":"Gloss Pink With Collagen",
+        "price":29.0,
+        "category":["lipsticks"],
+       " sale":true
+    },
+    {
+        "id":27,
+        "img":"https://thebravecoders-responsive-cosmetics-website-with-dg110g8i1.vercel.app/_next/image?url=%2Fproduct__29.jpg&w=1080&q=75",
+        "name":"Gloss Pink With Collagen",
+        "price":29.0,
+        "category":["lipsticks"],
+       " sale":true
+    },
+    {
+        "id":28,
+        "img":"https://thebravecoders-responsive-cosmetics-website-with-dg110g8i1.vercel.app/_next/image?url=%2Fproduct__31.jpg&w=1080&q=75",
+        "name":"Mineral Matte Lipstick",
+        "price":"43.0",
+        "category":["lipsticks"],
+        "sale":false
+    },
+    {
+        "id":29,
+        "img":"https://thebravecoders-responsive-cosmetics-website-with-dg110g8i1.vercel.app/_next/image?url=%2Fproduct__30.jpg&w=1080&q=75",
+        "name":"Mineral Matte Lipstick",
+        "price":43.0,
+        "category":["lipsticks"],
+       " sale":true
+    },
+    {
+        "id":30,
+        "img":"https://thebravecoders-responsive-cosmetics-website-with-dg110g8i1.vercel.app/_next/image?url=%2Fproduct__32.jpg&w=1080&q=75",
+        "name":"Mineral Matte Lipstick",
+        "price":43.0,
+        "category":["lipsticks"],
+        "sale":false
+    },
+    {
+        "id":31,
+        "img":"https://thebravecoders-responsive-cosmetics-website-with-dg110g8i1.vercel.app/_next/image?url=%2Fproduct__33.jpg&w=1080&q=75",
+        "name":"Natural Tea Body Wash",
+        "price":38.0,
+        "category":["skin care"],
+        "sale":false
+    },
+    {
+        "id":32,
+        "img":"https://thebravecoders-responsive-cosmetics-website-with-dg110g8i1.vercel.app/_next/image?url=%2Fproduct__34.jpg&w=1080&q=75",
+        "name":"Touch Keratosis Pilaris",
+        "price":29.0,
+        "category":["skin care"],
+        "sale":false
+    },
+    {
+        "id":33,
+        "img":"https://thebravecoders-responsive-cosmetics-website-with-dg110g8i1.vercel.app/_next/image?url=%2Fproduct__35.jpg&w=1080&q=75",
+        "name":"Yves Saint Laurent Libre",
+        "price":"23.0",
+        "category":["makeup"],
+        "sale":false
+    }
+  ]
+}
