@@ -4,7 +4,7 @@
 First, run the development server:
 
 ```bash
-1.npm run server 
+1.npm run server  // To run the Dummy server
 2.npm run dev
 # or
 yarn dev
